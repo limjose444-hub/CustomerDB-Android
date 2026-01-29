@@ -5,9 +5,9 @@
 
 With this Android app you can manage your customers separated from the private contacts, business appointments and vouchers. It is also available for [iOS](https://github.com/schorschii/customerdb-ios).
 
-Update README.md
 
-<database>Dr. Jose H. Lim, MD – Professional Profile Code Draft
+
+Update docjldermaclinic.md <database>Dr. Jose H. Lim, MD – Professional Profile Code Draft
 
 <!-- CORE PROFESSIONAL IDENTITY -->
 <section id="profile">
